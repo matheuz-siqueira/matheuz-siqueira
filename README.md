@@ -1,7 +1,7 @@
-## Olá eu sou o Matheus Siqueira
+## Olá, eu sou o Matheus Siqueira
 
 
-- 🌱 Atualmente estudando infra 
+- 🌱 Atualmente estudando back-end com ruby 
 - 💬 Acadêmico de Sistemas de Informação apaixonado por tecnologia e negócios 
 - 📫 Contate-me no email: matheussiqueira.work@gmail.com
 
@@ -12,8 +12,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="matheuz-siqueira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />       
-   <img align="center" alt="matheuz-siqueira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
 </div>
 
 ## 
