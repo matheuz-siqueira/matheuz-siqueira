@@ -1,7 +1,7 @@
 ## Olá, eu sou o Matheus Siqueira
 
 
-- 🌱 Atualmente estudando back-end com ruby 
+- 🌱 Atualmente estudando desenvolvimento web com ruby e ruby on rails 
 - 💬 Acadêmico de Sistemas de Informação apaixonado por tecnologia e negócios 
 - 📫 Contate-me no email: matheussiqueira.work@gmail.com
 
