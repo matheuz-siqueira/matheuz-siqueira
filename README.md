@@ -1,7 +1,7 @@
 ## Olá, eu sou o Matheus Siqueira
 
 
-- 🌱 Atualmente estudando desenvolvimento web com ruby e ruby on rails 
+- 🌱 Atualmente estudando desenvolvimento desenvolvimento web back-end e infra
 - 💬 Acadêmico de Sistemas de Informação apaixonado por tecnologia e negócios 
 - 📫 Contate-me no email: matheussiqueira.work@gmail.com
 
@@ -12,6 +12,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
@@ -20,5 +21,9 @@
 
 <div>
 <a href = "https://www.linkedin.com/in/matheuz-siqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <a href="https://instagram.com/matheuz_siqueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
+
 </div>
