@@ -1,7 +1,7 @@
 ## Olá, eu sou o Matheus Siqueira
 
 
-- 🌱 Atualmente estudando desenvolvimento desenvolvimento web back-end e infra
+- 🌱 Atualmente estudando desenvolvimento web back-end e infra
 - 💬 Acadêmico de Sistemas de Informação apaixonado por tecnologia e negócios 
 - 📫 Contate-me no email: matheussiqueira.work@gmail.com
 
