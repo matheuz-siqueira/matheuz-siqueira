@@ -1,7 +1,7 @@
 ## Olá, eu sou o Matheus Siqueira
 
 
-- 🌱 Atualmente estudando desenvolvimento web back-end e infra
+- 🌱 Atualmente estudando desenvolvimento de APIs com .NET 
 - 💬 Acadêmico de Sistemas de Informação apaixonado por tecnologia e negócios 
 - 📫 Contate-me no email: matheussiqueira.work@gmail.com
 
@@ -13,7 +13,6 @@
 
 <div style="display: inline_block"><br>
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
 ## 
