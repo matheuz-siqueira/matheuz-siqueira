@@ -1,7 +1,7 @@
 ## Olá, eu sou o Matheus Siqueira
 
 
-- 🌱 Atualmente estudando desenvolvimento de APIs com .NET 
+- 🌱 Atualmente estudando desenvolvimento de APIs com C# e .NET Core 
 - 💬 Acadêmico de Sistemas de Informação apaixonado por tecnologia e negócios 
 - 📫 Contate-me no email: matheussiqueira.work@gmail.com
 
