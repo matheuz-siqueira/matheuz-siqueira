@@ -26,6 +26,7 @@ Também acredito ser essencial o desenvolvimento de soft skills, portanto, tenho
 ### **👨‍💻 Tech Skills**
 
 Algumas de minhas tech skills..
+
 <div style="display: inline_block"><br>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -41,9 +42,9 @@ Algumas de minhas tech skills..
 
 ### **🌱 Projeto Atual**
 
-Atualmente estou trabalhando em um projeto pessoal de uma API (.NET Core 6) que eu chamei de [MyFreelas][myfreelas-url] cujo objetivo é possibilitar o gerenciamento de projetos freelas.
+Atualmente estou trabalhando em um projeto pessoal de uma API (.NET Core 6) que eu chamei de [TodoListAPI](https://github.com/matheuz-siqueira/TodoListAPI) que é um clássico aplicativo de todo-list para gerenciamento de tarefas.
 
-Logo ao realizar um cadastro na API o usuário consegue acessar endpoints que vão auxiliá-lo em sua evolução com freelancer. Você pode ver mais sobre o projetos aqui.
+Logo ao realizar um cadastro na API o usuário consegue acessar endpoints para gerenciar a realização das tarefas importantes do seu dia a dia.
 
 ### **Ademais**
 
@@ -51,7 +52,6 @@ Ademais, gosto de ler livros de assuntos diversos que possam me enriquecer pesso
 
 <!-- URLs -->
 
-[myfreelas-url]: https://github.com/matheuz-siqueira/myfreelas
 [linkedin-url]: https://www.linkedin.com/in/matheussiqueira-me/
 [instagram-url]: https://www.instagram.com/matheuz_siqueira/
 
@@ -62,4 +62,3 @@ Ademais, gosto de ler livros de assuntos diversos que possam me enriquecer pesso
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
