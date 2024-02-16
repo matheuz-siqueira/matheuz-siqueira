@@ -43,9 +43,9 @@ Algumas de minhas tech skills..
 
 ### **🌱 Projeto Atual**
 
-Atualmente estou trabalhando em um projeto pessoal de uma API (.NET Core 6) que eu chamei de [TodoListAPI](https://github.com/matheuz-siqueira/TodoListAPI) que é um clássico aplicativo de todo-list para gerenciamento de tarefas.
+Atualmente estou trabalhando em um projeto pessoal de uma API (.NET Core 6) que eu chamei de [BlogMVC](https://github.com/matheuz-siqueira/BlogMVC-back) que é um sistema web de um blog. 
 
-Logo ao realizar um cadastro na API o usuário consegue acessar endpoints para gerenciar a realização das tarefas importantes do seu dia a dia.
+Logo ao realizar um cadastro na API o usuário consegue realizar publicações em seu próprio perfil e interagir com publicações feitas por outros usuários.
 
 ### **Ademais**
 
