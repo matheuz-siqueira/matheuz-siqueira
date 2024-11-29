@@ -41,12 +41,6 @@ Algumas de minhas tech skills..
 
 ---
 
-### **🌱 Projeto Atual**
-
-Atualmente estou trabalhando em um projeto pessoal de uma API (.NET Core 6) que eu chamei de [BlogMVC](https://github.com/matheuz-siqueira/BlogMVC-back) que é um sistema web de um blog. 
-
-Logo ao realizar um cadastro na API o usuário consegue realizar publicações em seu próprio perfil e interagir com publicações feitas por outros usuários.
-
 ### **Ademais**
 
 Ademais, gosto de ler livros de assuntos diversos que possam me enriquecer pessoal e profissionalmente e também de uma boa xícara de café ☕️ hehe.
